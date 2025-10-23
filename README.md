@@ -63,16 +63,16 @@ plt.show()
 <img width="739" height="579" alt="image" src="https://github.com/user-attachments/assets/4ee37199-2d3c-44c8-b1fa-f75b45932dc7" />
 
 
-Tabular Column
+## Tabular Column
+
+![WhatsApp Image 2025-10-23 at 22 13 40_505841f5](https://github.com/user-attachments/assets/81e1756a-a17c-4254-993a-79803af81666)
 
 
+## Calculation
 
-Calculation
+![WhatsApp Image 2025-10-23 at 22 13 41_0ea9c4e4](https://github.com/user-attachments/assets/adde5616-2b29-400f-90d2-cb9325311de1)
 
-
-
-
-Result
-
+## Result
 
 The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
+
